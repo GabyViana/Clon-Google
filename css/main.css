@@ -84,7 +84,7 @@ nav .nav-right-section img {
 
 main {
     text-align: center;
-    margin-top: 100px;
+    margin-top: 0px;
 }
 
 main .main-logo {
@@ -196,7 +196,7 @@ footer {
     margin-top: 180px;
     display: flex;
     height:140px;
-    font-size: 20px;
+    font-size: 15px;
 }
 
 footer .mexico {
